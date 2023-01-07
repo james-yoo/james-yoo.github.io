@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Robotics Software Engineer
-subtitle: Robot Navigation Project, Robot Business Division, LG Electronics
+subtitle: Robot Business Division, LG Electronics
 cover-img: /assets/img/itu-seokho-m4.jpg
 ---
 
@@ -9,21 +9,18 @@ cover-img: /assets/img/itu-seokho-m4.jpg
 
 ## About me
 
-**James(Kyungho) Yoo** is a **_senior research engineer_** of [LG Electronics](https://www.lg.com/global/business/robot). He designs autonomous navigation architectures, photo-realistic and physical based simulation  system and devises sophisticated algorithms in robotics domain.
+**James(Kyungho) Yoo** is a **_senior research engineer_** of [LG Electronics](https://www.lg.com/global/business/robot). As a highly motivated software/robotics developer with the enthusiasm to accept new challenges, he designs autonomous navigation software architecture and devises sophisticated algorithms in robotics domain.
 
-He has a broad technical background in autonomous drving/navigation system, perception/localization/decision-making algorithms. He has published more than 20 international [research papers](https://scholar.google.com/citations?user=seokhoson) including highly cited top journals. His research has been presented in several conferences and organizations.
+He has a broad technical background not only autonomous drving/robotic navigation/advanced sensor system but perception/localization/decision-making algorithms.Based on his strong knowledge in autonomous technology, he worked on [numerous projects](https://james-yoo.github.io) regarding of autonomous driving system, perception software with artificial intelligence and ROS(Robot Operating System) based software stack. He also has a huge interest in photo-realistic simulation for robot application.
 
-He is carrying out various activities including international standardizations ([ITU-T](https://www.itu.int/en/ITU-T/about/Pages/default.aspx) standards), paper reviews for research journals, and contributions to open source projects.
+Successful background in ROS/ROS2 SW stack, he played a pioneering role in applying the ROS system to LG Electronics robots. He is also contributing to ROS based open source projects. 
 
-He is a founding member of the open souce project [Cloud-Barista](https://github.com/cloud-barista) and the leader and maintainer of [CB-Tumblebug](https://github.com/cloud-barista/cb-tumblebug) project.
-Also, he is a member of [Kubernetes](https://kubernetes.io/) and approver/reviewer of localization contents in Kubernetes [Dashboard](https://github.com/kubernetes/dashboard) and [Website](https://github.com/kubernetes/website).
-
-He loves to bring new ideas and share it with collaborators. Hello world! &#128525;
+He loves to bring new ideas to world and share it with collaborators.
 
 ## Contact
 
 ```
-Affiliation: Cloud Computing SW Research Section, Future Computing Research Division, Artificial Intelligence Research Laboratory, Electronics and Telecommunications Research Institute (ETRI)
-Office: ETRI 7-563, 218, Gajeong-ro, Yuseong-gu, Daejeon, Republic of Korea
-Email: shsonkorea[at]etri.re.kr or shsongist[at]gmail.com
+Affiliation: Robotic Software Engineer, Robot Navigation Project, Robot Business Division, LG Electronics
+Office: LG SciencePark 10, Magokjungang 10-ro, Gangseo-gu, Seoul, Republic of Korea
+Email: kyungho.yoo[at]lge.com or kyungho.yoo[at]gmail.com
 ```
