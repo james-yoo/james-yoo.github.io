@@ -6,10 +6,18 @@ title: Research Career
 <br/>
 
 
-# Research Experience
+# Job Experience
 
-### Electronics and Telecommunications Research Institute
-#### Senior Researcher, 2014 to Present
+### Robot Navigation Project, Robot Business Division, LG Electronics
+#### Professional Engineer, 2018 - Present
+
+* Project (ongoing): _**Development of Last-Mile Delivery Robot**_
+  * Role: design and development of ROS2 based navigation stack for indoor/outdoor autonomous driving system, physical-based robotic simulation toolkit
+* Project: _**Outdoor delivery robot platform**_
+  * Role: project lead of an outdoor robotic delivery platform, design navigation SW stack and mechanical/HW system 
+
+### Autonomous Driving Development Center, Hyundai Motor Company
+#### Senior Research Engineer, 2016 - 2018 Present
 
 * Project (ongoing): _**Multi-cloud service common framework**_
   * Role: design and development of multi-cloud platform, open-source based project management, standardization activity
@@ -17,6 +25,17 @@ title: Research Career
   * Role: design and development of a cloud service brokerage platform, analysis of open-source projects, operation of openstack cloud testbeds, standardization activity
 * Project: _**Big data-based IT system operation and analysis framework**_
   * Role: design of a system for a big-data analytics-driven resource management in virtual EPC (NFV-based LTE core network)
+
+### Central Advanced Research and Engineering Institute, Hyundai Motor Company
+#### Research Engineer - Senior Research Engineer, 2009 - 2015
+
+* Project (ongoing): _**Multi-cloud service common framework**_
+  * Role: design and development of multi-cloud platform, open-source based project management, standardization activity
+* Project: _**Heterogeneous multi-cloud service brokerage platform**_
+  * Role: design and development of a cloud service brokerage platform, analysis of open-source projects, operation of openstack cloud testbeds, standardization activity
+* Project: _**Big data-based IT system operation and analysis framework**_
+  * Role: design of a system for a big-data analytics-driven resource management in virtual EPC (NFV-based LTE core network)
+
 
 ### TestMidas, Inc.
 #### Senior Researcher,	2013 to 2014
