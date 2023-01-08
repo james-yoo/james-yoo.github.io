@@ -48,7 +48,7 @@ title: Research Career
 ### Aerospace and Information Technology Engineering, Konkuk University, South Korea
 #### Master Student, 2007 to 2009
 
-* Thesis: _**Relaxed-criteria concurrent SLA negotiations for bolstering dynamic provisioning of personalized Cloud resources**_
+* Thesis: _**GPS-Aided 3D Multiple Aircraft Tracking and Identification**_
 
 ### Aerospace and Information Technology Engineering, Konkuk University, South Korea
 #### B.S Student, 2001 to 2007
