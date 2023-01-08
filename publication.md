@@ -8,15 +8,15 @@ title: Publication
 - Nam Gyun Kim, **Kyung Ho Yoo**, Jae Suk SEO, Yong Uk SEO, Young A JUNG, Hong Gyun LIM and Joo Seon YOO, _"MULTIPURPOSE ROLLABLE MOVING DEVICE"_ US Patent:	(US20180099525A1).
 - **Kyung Ho Yoo** and Jin Hyuk Choi, _"LANE DISPLAY DEVICE USING OUTSIDE MIRROR AND METHOD THEREOF"_ US Patent:	(US20180099613A1).
 - **Kyung Ho Yoo**, _"APPARATUS AND METHOD FOR ESTIMATING DIRECTION OF VEHICLE"_ US Patent:	(US20180073892A1).
-- _"Method for object processing and vehicle supporting the same"_ US Patent:	(B2, 9517768).
-- _"Positioning apparatus and method for vehicle"_ US Patent:	(B1, 9507028).
-- _"Apparatus and method for compensating for beam angle of multi-layer LiDAR"_ US Patent: (B2, 9360555).
-- _"Apparatus and method for detecting moving-object around vehicle"_ US Patent:	(B2, 9251705).
-- _"Method and system for producing classifier for recognizing obstacle"_ US Patent:	(B2, 9207320).
-- _"System and method of providing warning to pedestrian using laser beam"_ US Patent:	(B2, 9024740).
-- _"ROAD MARKER RECOGNITION DEVICE AND METHOD"_ US Patent:	(A1, 2014-0156178).
-- _"APPARATUS AND METHOD FOR ESTIMATING VELOCITY OF A VEHICLE"_ US Patent:	(A1, 2014-0121954).
-- _"TECHNIQUE FOR DISPLAYING SHAPE OF ROAD SURFACE AND METHOD THEREOF "_ US Patent:	(A1, 2013-0148101).
+- Young Chul Oh, Myung Seon Heo and **Kyung Ho Yoo**, _"Method for object processing and vehicle supporting the same"_ US Patent:	(US9517768B2).
+- **Kyung Ho Yoo**, _"Positioning apparatus and method for vehicle"_ US Patent:	(US9507028B1).
+- Young Chul Oh, Myung Seon Heo and **Kyung Ho Yoo**, _"Apparatus and method for compensating for beam angle of multi-layer LiDAR"_ US Patent: (US9360555B2).
+- **Kyung Ho Yoo**, Hui Sung Lee and Hyoung Geun Kwon, _"Apparatus and method for detecting moving-object around vehicle"_ US Patent:	(US9251705B2).
+- Jin Hak Kim, **Kyung Ho Yoo**, Yoon Ho Jang, Seong Su Im, Hui Sung Lee, Kyoung Moo Min and Eun Jin Choi, _"Method and system for producing classifier for recognizing obstacle"_ US Patent:	(US9207320B2).
+- Kyoung Moo Min, **Kyung Ho Yoo**, Yoon Ho Jang, Seong Su Im, Hui Sung Lee, Jin Hak Kim and Eun Jin Choi, _"System and method of providing warning to pedestrian using laser beam"_ US Patent:	(US9024740B2).
+- **Kyung Ho Yoo**, _"ROAD MARKER RECOGNITION DEVICE AND METHOD"_ US Patent:	(US20140156178A1, Abandoned).
+- Hui Sung Lee, **Kyung Ho Yoo**, Jin Hak Kim and Kyoung Moo Min, _"APPARATUS AND METHOD FOR ESTIMATING VELOCITY OF A VEHICLE"_ US Patent:	(US20140121954A1, Abandoned).
+- **Kyung Ho Yoo**, Hui Sung Lee and Hyun Jae Yoo, _"TECHNIQUE FOR DISPLAYING SHAPE OF ROAD SURFACE AND METHOD THEREOF "_ US Patent:	(US20130148101A1, Abandoned).
 
 - _"다목적 이동장치"_ Korea Patent:	(A, 10-2018-0038268).
 - _"아웃사이드 미러를 이용한 차선 표시 장치 및 그 방법"_ Korea Patent:	(A, 10-2018-0038315).
