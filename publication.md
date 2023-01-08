@@ -5,9 +5,9 @@ title: Publication
 
 # Patents
 
-- _"MULTIPURPOSE ROLLABLE MOVING DEVICE"_ US Patent:	(A1, 2018-0099525).
-- _"LANE DISPLAY DEVICE USING OUTSIDE MIRROR AND METHOD THEREOF"_ US Patent:	(A1, 2018-0099613).
-- _"APPARATUS AND METHOD FOR ESTIMATING DIRECTION OF VEHICLE"_ US Patent:	(A1, 2018-0073892).
+- Nam Gyun Kim, **Kyung Ho Yoo**, Jae Suk SEO, Yong Uk SEO, Young A JUNG, Hong Gyun LIM and Joo Seon YOO, _"MULTIPURPOSE ROLLABLE MOVING DEVICE"_ US Patent:	(US20180099525A1).
+- **Kyung Ho Yoo** and Jin Hyuk Choi, _"LANE DISPLAY DEVICE USING OUTSIDE MIRROR AND METHOD THEREOF"_ US Patent:	(US20180099613A1).
+- **Kyung Ho Yoo**, _"APPARATUS AND METHOD FOR ESTIMATING DIRECTION OF VEHICLE"_ US Patent:	(US20180073892A1).
 - _"Method for object processing and vehicle supporting the same"_ US Patent:	(B2, 9517768).
 - _"Positioning apparatus and method for vehicle"_ US Patent:	(B1, 9507028).
 - _"Apparatus and method for compensating for beam angle of multi-layer LiDAR"_ US Patent: (B2, 9360555).
