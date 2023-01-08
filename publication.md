@@ -49,18 +49,15 @@ title: Publication
 
 #### International
 
-- **Yoo, Kyungho**, Sung, Sangkyung, Lee, Eunsung, Lee, Sanguk, Kim, Jahoon, Lee, Ho -Jin and Lee, Young
-Jae, ”Availability Assessment of GPS Augmentation System Using Geostationary Satellite and QZSS in Seoul
-Urban Area”, Transactions of the Japan Society for Aeronautical and Space Sciences, Volume 52, Issue 177, pp.
-152-158 (2009)
+- Janghun Hyeon, Dongwoo Kim, Bumchul Jang, Hyunga Choi, Dong Hoon Yi, **Kyungho Yoo**, Jeongae Choi and Nakju Doh, "KR-Net: A Dependable Visual Kidnap Recovery Network for Indoor Spaces", 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), pages 8527-8533.
 
-- **Kyung-Ho Yoo**, Hwayoung Kim, Hayong Woo, Seongsu Im, Hui Sung Lee, ”A Sensor Fusion Digital-Map System
-for Driver Assistance”, SAE Technical Paper, 2013-01-0734.
+- **Yoo, Kyungho**, Sung, Sangkyung, Lee, Eunsung, Lee, Sanguk, Kim, Jahoon, Lee, Ho -Jin and Lee, Young Jae, "Availability Assessment of GPS Augmentation System Using Geostationary Satellite and QZSS in Seoul Urban Area", Transactions of the Japan Society for Aeronautical and Space Sciences, Volume 52, Issue 177, pp.152-158 (2009)
+
+- **Kyung-Ho Yoo**, Hwayoung Kim, Hayong Woo, Seongsu Im, Hui Sung Lee, "A Sensor Fusion Digital-Map System for Driver Assistance", SAE Technical Paper, 2013-01-0734.
 
 #### Domestic
 
-- **유경호**, 성상경, 강태삼, 이영재, 이은성, 이상욱, “서울 도심지에서의 QZSS 를 이용한 GPS 확장시스템의 가용도 평가”,
-한국항공우주학회지, 제 36 권 제 8 호, 2008.8, 761-766.
+- **유경호**, 성상경, 강태삼, 이영재, 이은성, 이상욱, "서울 도심지에서의 QZSS 를 이용한 GPS 확장시스템의 가용도 평가", 한국항공우주학회지, 제 36 권 제 8 호, 2008.8, 761-766.
 
 
 ### Conference Papers
@@ -70,8 +67,6 @@ for Driver Assistance”, SAE Technical Paper, 2013-01-0734.
 
 #### Domestic
 
-- **유경호**, 성상경, 강태삼, 이영재, 이은성, 주인원, 신천식, 이상욱, “서울 도심지에서의 GPS+QZSS 가용 성능 분석”,
-한국항공우주학회 2008 년도 춘계학술발표회 논문집, 2008.4, 399-402.
+- **유경호**, 성상경, 강태삼, 이영재, 이은성, 주인원, 신천식, 이상욱, "서울 도심지에서의 GPS+QZSS 가용 성능 분석", 한국항공우주학회 2008 년도 춘계학술발표회 논문집, 2008.4, 399-402.
 
-- **유경호**, 원대희, 안종선, 성상경, 강태삼, 이영재, 이은성, 정성균, 신천식, 이상욱, ”서울 도심에서의 GPS/갈릴레오
-가용도 분석”, 한국항공우주학회 추계학술발표회 논문집(II), 2007.11, 1191-1194.
+- **유경호**, 원대희, 안종선, 성상경, 강태삼, 이영재, 이은성, 정성균, 신천식, 이상욱, "서울 도심에서의 GPS/갈릴레오 가용도 분석", 한국항공우주학회 추계학술발표회 논문집(II), 2007.11, 1191-1194.
