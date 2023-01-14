@@ -28,7 +28,7 @@ title: Research Career
 #### Research Engineer - Senior Research Engineer, 2009 - 2015
 
 * Project: _**[Mini Sonata](https://www.youtube.com/watch?v=9Y3UMIpIk0I)**_
-  * Role: design and development of elecctric autonomous car for visual impaired children, LiDAR based perception/decision-making algorithm
+  * Role: design and development of elecctric autonomous car for visual  impairment children, LiDAR based perception/decision-making algorithm
 * Project: _**Collaborate with Quanergy**_
   * Role: assessment of multiple target tracking performance using 3D LiDAR
 * Project: _**Development of TJA(Traffic Jam Assist) system**_
