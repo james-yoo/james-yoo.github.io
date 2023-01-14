@@ -11,13 +11,18 @@ comments: true
 
 현대자동차 독자개발 자율주행 기술을 적용한 앞이 보이지 않아도 청각과 촉각만으로 운전할 수 있는 **미니쏘나타** 개발 프로젝트. 기획부터 설계, 개발, 테스트, 놀이터 구축, 광고촬영까지 약 1년 6개월가량 진행된 장기 프로젝트.
 
+
 ## Technology
 
+
 ### 레이저스캐너 기반 주변 환경 인식
-  
+
+
 ### 사운드 피드백
-  
+
+
 ### 햅틱 피드백
+
 
 ### 인프라 통신
 
@@ -26,7 +31,9 @@ comments: true
 
 <iframe width="800" height="480" src="https://www.youtube.com/embed/tcl0pJUcJUk" title="[광고] [쏘나타(SONATA)] 차카차카 놀이터 - 키재기 편" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+
 <iframe width="800" height="480" src="https://www.youtube.com/embed/9Y3UMIpIk0I" title="[광고] [쏘나타(SONATA)] 차카차카 놀이터 - 다큐멘터리 편" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 ## 차카차카 놀이터
   
