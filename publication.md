@@ -49,8 +49,6 @@ title: Publication
 
 #### International
 
-- Janghun Hyeon, Dongwoo Kim, Bumchul Jang, Hyunga Choi, Dong Hoon Yi, **Kyungho Yoo**, Jeongae Choi and Nakju Doh, "KR-Net: A Dependable Visual Kidnap Recovery Network for Indoor Spaces", 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), pages 8527-8533.
-
 - **Yoo, Kyungho**, Sung, Sangkyung, Lee, Eunsung, Lee, Sanguk, Kim, Jahoon, Lee, Ho -Jin and Lee, Young Jae, "Availability Assessment of GPS Augmentation System Using Geostationary Satellite and QZSS in Seoul Urban Area", Transactions of the Japan Society for Aeronautical and Space Sciences, Volume 52, Issue 177, pp.152-158 (2009)
 
 - **Kyung-Ho Yoo**, Hwayoung Kim, Hayong Woo, Seongsu Im, Hui Sung Lee, "A Sensor Fusion Digital-Map System for Driver Assistance", SAE Technical Paper, 2013-01-0734.
@@ -64,6 +62,7 @@ title: Publication
 
 #### International
 
+- Janghun Hyeon, Dongwoo Kim, Bumchul Jang, Hyunga Choi, Dong Hoon Yi, **Kyungho Yoo**, Jeongae Choi and Nakju Doh, "KR-Net: A Dependable Visual Kidnap Recovery Network for Indoor Spaces", 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), pages 8527-8533.
 
 #### Domestic
 
