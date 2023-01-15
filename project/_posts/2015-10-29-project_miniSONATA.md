@@ -19,7 +19,7 @@ comments: true
 ### LiDAR 기반 주변 환경 인식
 LiDAR(Light Detection and Ranging) 센서는 현존하는 대부분의 자율주행 시스템에 적용되는 센서이다. 정확한 거리 측정과 공간 분해능으로 *자율주행 시스템의 눈* 이라고 일컬어지며 미니쏘나타에도 LiDAR 센서를 채용하여 차량 주변환경을 센싱한다.  
 <br/>
-이 프로젝트에서 기여했던 부분은 LiDAR 센서 전처리(노이즈 제거 등), 공간 분석(장애물 지도 생성) 및 주행 제어를 위한 경로 생성(Bezier 커브)으로 통상 인지/판단/제어로 이루어지는 자율주행 SW 파이프라인의 대부분을 담당하였다.  
+이 프로젝트에서 내가 기여했던 부분은 LiDAR 센서 전처리(노이즈 제거 등), 공간 분석(장애물 지도 생성) 및 주행 제어를 위한 경로 생성(Bezier 커브)으로 통상 인지/판단/제어로 이루어지는 자율주행 핵심 파이프라인의 대부분을 담당하였다.  
 
 ![LiDAR 센서](/assets/img/miniSONATA/mini_sonata_02.png)  
 
@@ -28,19 +28,20 @@ LiDAR(Light Detection and Ranging) 센서는 현존하는 대부분의 자율주
 <br/>
 ![사운드 피드백](/assets/img/miniSONATA/mini_sonata_03.png)  
 
-### 햅틱 피드백
-
-
-### 인프라 통신
-
+### 진동 가이드
+사운드 피드백과 함께 운전석 시트에서도 진동을 통한 방향 가이드를 제공한다. 운전자는 청각 뿐만 아니라 촉각 형태로도 조향 정보를 전달 받을 수 있기 때문에 보다 입체적인 공간 인식이 가능하다.  
+<br/>
+![햅틱 피드백](/assets/img/miniSONATA/mini_sonata_04.png)  
+  
+<br/>
 
 ## 광고스토리
 
 <iframe width="800" height="480" src="https://www.youtube.com/embed/tcl0pJUcJUk" title="[광고] [쏘나타(SONATA)] 차카차카 놀이터 - 키재기 편" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+  <br/>
 
 <iframe width="800" height="480" src="https://www.youtube.com/embed/9Y3UMIpIk0I" title="[광고] [쏘나타(SONATA)] 차카차카 놀이터 - 다큐멘터리 편" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+  <br/>
 
 ## 차카차카 놀이터
   
