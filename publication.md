@@ -5,6 +5,8 @@ title: Publication
 
 # Patents
 
+- **Kyung Ho Yoo** and Donghoon Yi, , _"Delivery robot and control method of the delivery robot"_ US Patent:	(US20230068618A1 - Pending).
+- Donghoon Yi, **Kyung Ho Yoo** and Byungki Kim, , _"Delivery system"_ US Patent:	(US20230069625A1 - Pending).
 - Nam Gyun Kim, **Kyung Ho Yoo**, Jae Suk SEO, Yong Uk SEO, Young A JUNG, Hong Gyun LIM and Joo Seon YOO, _"MULTIPURPOSE ROLLABLE MOVING DEVICE"_ US Patent:	(US20180099525A1).
 - **Kyung Ho Yoo** and Jin Hyuk Choi, _"LANE DISPLAY DEVICE USING OUTSIDE MIRROR AND METHOD THEREOF"_ US Patent:	(US20180099613A1).
 - **Kyung Ho Yoo**, _"APPARATUS AND METHOD FOR ESTIMATING DIRECTION OF VEHICLE"_ US Patent:	(US20180073892A1).
